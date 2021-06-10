@@ -1,4 +1,4 @@
-package com.kamol.swoosh
+package com.kamol.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
